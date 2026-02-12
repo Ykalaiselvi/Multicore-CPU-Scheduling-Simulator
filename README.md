@@ -5,7 +5,7 @@
 The **Multicore CPU Scheduling Simulator** is a Python-based simulation tool developed to demonstrate and analyze how operating systems schedule processes across multiple CPU cores.
 The simulator allows users to input processes and observe how different scheduling algorithms affect system performance.
 
-This project also stores execution results and performs Machine Learning analysis to predict efficient scheduling behavior.
+This project also stores execution results and performs Machine Learning analysis to predict efficient scheduling behaviors.
 
 ---
 
